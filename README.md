@@ -15,3 +15,8 @@ Esta critica hacia la autoria de las obras tiene muchas similitudes segun mi per
 
 como se ve en el diagrama de flujo, este codigo esta dividido en 4 etapas, primero la pantalla de carga o inicio, posteriormente el cambio de fondo, luego figuras/letras y por ultimo el final con malla.
 
+En su mayotia el codigo recibe una tecla y en base a ello ejecuta diferentes procesos, los mas destacables son por ejemplo el array que no solamente reicbe la tecla, si no que la transforma en numero, esto debido a que la tecla la considera como un string y ademas aplica -1 esto debido a que el array comienza desde el 0, asi el usuario no debe pensar en que 0 = 1 y directamente presiona los nhumeros.
+
+En este codigo aprendi diferentes cosas como por ejemplo el uso de && como condicion doble, en este caso necesitando que ambas declaraciones sean ciertas para funcionar, esto ayuda muchisimo con las etapas; el uso de (figuras) que representa el boolean siendo verdadero y (!figuras) representando que es negativo; tambien el uso de test.key para comprobar que es efectivamente una letra.
+
+La imagen utilizada es la sigiente 
