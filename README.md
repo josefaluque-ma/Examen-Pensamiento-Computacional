@@ -20,3 +20,7 @@ En su mayotia el codigo recibe una tecla y en base a ello ejecuta diferentes pro
 En este codigo aprendi diferentes cosas como por ejemplo el uso de && como condicion doble, en este caso necesitando que ambas declaraciones sean ciertas para funcionar, esto ayuda muchisimo con las etapas; el uso de (figuras) que representa el boolean siendo verdadero y (!figuras) representando que es negativo; tambien el uso de test.key para comprobar que es efectivamente una letra.
 
 La imagen utilizada es la sigiente 
+![Mi_imagen](cuadro.png)
+Esta decision fue tomada con la idea de simplificar el nest loop, anteriormente se necesitaba un calculo matematico pero ahora como se usan solo 2 coordenadas, ya no es necesario, asi reduciendo la cantidad de codigo.
+
+![Mi_imagen](diagrama_proceso_2.png)
