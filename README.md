@@ -36,3 +36,5 @@ Al comienzo comencé distribuyendo mi código anterior en un nuevo archivo para 
 Posteriormente se comenzó a añadir todas las cosas nuevas como en este caso las instrucciones del inicio, y posteriormente cosas como la imagen o el nuevo loop, también el texto en la etapa 2.
 
 Si hay algo que pueda decir de este proyecto es que me encuentro bastante satisfecha, esto debido que las etapas ayudan muchísimo a dar forma a este proyecto, creo que anteriormente deseaba hacer algo así pero las limitaciones en conocimiento no me dejaban crearlo, mis aprendizajes a lo largo del proceso como el uso de && me parecieron sumamente interesantes. desearía haber poseído más tiempo para poder complejizar aún más pero eso no quiere decir que no aprecie este proyecto.
+
+https://editor.p5js.org/josefa.luque/sketches/IqlazwyPY
