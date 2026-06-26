@@ -13,4 +13,5 @@ Esta critica hacia la autoria de las obras tiene muchas similitudes segun mi per
 
 ![Mi_imagen](diagrama_flujo.png)
 
+como se ve en el diagrama de flujo, este codigo esta dividido en 4 etapas, primero la pantalla de carga o inicio, posteriormente el cambio de fondo, luego figuras/letras y por ultimo el final con malla.
 
