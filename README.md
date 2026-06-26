@@ -11,4 +11,6 @@ Como se explico al inicio, este proyecto al ser la mejora de uno anterior mantie
 
 Esta critica hacia la autoria de las obras tiene muchas similitudes segun mi persona con la situacion actual con la ia, debido a esto es que genero una motivacion personal y un deseo por expresar de manera correcta este mensaje. El diseño critico es una rama sumamente importante ya que nos permite reflexionar de nuestra situacion y guiarnos hacia el cambio.
 
+![Mi_imagen](diagrama_flujo.png)
+
 
